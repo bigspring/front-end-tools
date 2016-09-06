@@ -4,7 +4,8 @@ A collection of front-end tools
 --
 
 ## Animation
-* AOS - Animate on scroll library – https://github.com/michalsnik/aos
+* [AOS](https://github.com/michalsnik/aos) - Animate on scroll library
+* [Granium.js](https://sarcadass.github.io/granim.js/examples.html) - Basic gradients animation with 3 gradients in queue composed of 2 colors.
 
 ## Video
-* Vide - Background video with format fallbacks - https://github.com/VodkaBears/Vide
+* [Vide](https://github.com/VodkaBears/Vide) - Background video with format fallbacks
