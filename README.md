@@ -12,4 +12,5 @@ A collection of front-end tools
 
 ## Design Resources
 * [Type Nugget](http://beta.typenugget.com) – Type Nugget is a WYSIWYG editor for web typography CSS.
-
+* [Colorhunt](http://colorhunt.co/) – Color Hunt is Pinterest for colors. Scroll, scroll, scroll through four color combinations
+* [Flat UI colors](http://flatuicolors.com/?ref=sansfrancis.co) – Flat UI Colors offers click and copy access to twenty vibrant flat colors.
