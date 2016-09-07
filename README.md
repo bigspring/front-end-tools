@@ -16,4 +16,5 @@ A collection of front-end tools
 * [Flat UI colors](http://flatuicolors.com/?ref=sansfrancis.co) – Flat UI Colors offers click and copy access to twenty vibrant flat colors.
 
 ## Demos
-* [Product Builder](https://codyhouse.co/gem/product-builder)
+* [Product Builder](https://codyhouse.co/gem/product-builder) – A customizable and responsive product builder for your online store.
+
