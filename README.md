@@ -18,5 +18,8 @@ A collection of front-end tools
 ## Forms
 * [Cleave](https://github.com/nosir/cleave.js) – Format input text content when you are typing
 
+## Image Zooming
+* [Zooming](https://github.com/kingdido999/zooming) – Pure JavaScript image zoom that can be customized and invoked programmatically
+
 ## Video
 * [Vide](https://github.com/VodkaBears/Vide) - Background video with format fallbacks
