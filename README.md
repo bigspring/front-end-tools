@@ -7,6 +7,9 @@ A collection of front-end tools
 * [AOS](https://github.com/michalsnik/aos) - Animate on scroll library
 * [Granium.js](https://sarcadass.github.io/granim.js/examples.html) - Basic gradients animation with 3 gradients in queue composed of 2 colors.
 
+## Colour
+* [Open Colour](https://yeun.github.io/open-color)
+
 ## Design Resources
 * [Type Nugget](http://beta.typenugget.com) – Type Nugget is a WYSIWYG editor for web typography CSS.
 * [Colorhunt](http://colorhunt.co/) – Color Hunt is Pinterest for colors. Scroll, scroll, scroll through four color combinations
