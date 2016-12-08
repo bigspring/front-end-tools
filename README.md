@@ -24,5 +24,8 @@ A collection of front-end tools
 ## Image Zooming
 * [Zooming](https://github.com/kingdido999/zooming) – Pure JavaScript image zoom that can be customized and invoked programmatically
 
+## Masonry
+* [macyjs](http://macyjs.com) - Tiny standalone masonry plugin
+
 ## Video
 * [Vide](https://github.com/VodkaBears/Vide) - Background video with format fallbacks
