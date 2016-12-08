@@ -8,7 +8,7 @@ A collection of front-end tools
 * [Granium.js](https://sarcadass.github.io/granim.js/examples.html) - Basic gradients animation with 3 gradients in queue composed of 2 colors.
 
 ## Colour
-* [Open Colour](https://yeun.github.io/open-color)
+* [Open Colour](https://yeun.github.io/open-color) – Open source colours optimised for UI
 
 ## Design Resources
 * [Type Nugget](http://beta.typenugget.com) – Type Nugget is a WYSIWYG editor for web typography CSS.
