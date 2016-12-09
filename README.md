@@ -27,5 +27,8 @@ A collection of front-end tools
 ## Masonry
 * [macyjs](http://macyjs.com) - Tiny standalone masonry plugin
 
+## Refresh
+* [Pull to refresh](https://github.com/BoxFactura/pulltorefresh.js) – A quick and powerful plugin for your pull-to-refresh needs in your webapp
+
 ## Video
 * [Vide](https://github.com/VodkaBears/Vide) - Background video with format fallbacks
