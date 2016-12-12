@@ -6,6 +6,7 @@ A collection of front-end tools
 ## Animation
 * [AOS](https://github.com/michalsnik/aos) - Animate on scroll library
 * [Granium.js](https://sarcadass.github.io/granim.js/examples.html) - Basic gradients animation with 3 gradients in queue composed of 2 colors.
+* [Animated Headlines](https://codyhouse.co/demo/animated-headlines/index.html) – Animated text headline
 
 ## Colour
 * [Open Colour](https://yeun.github.io/open-color) – Open source colours optimised for UI
