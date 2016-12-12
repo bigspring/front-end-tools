@@ -28,6 +28,9 @@ A collection of front-end tools
 ## Masonry
 * [macyjs](http://macyjs.com) - Tiny standalone masonry plugin
 
+## Navigation
+* [Auto Hide Navigation](https://codyhouse.co/demo/auto-hiding-navigation/nav-hero-subnav.html)
+
 ## Refresh
 * [Pull to refresh](https://github.com/BoxFactura/pulltorefresh.js) – A quick and powerful plugin for your pull-to-refresh needs in your webapp
 
