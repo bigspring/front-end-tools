@@ -22,6 +22,9 @@ A collection of front-end tools
 ## Forms
 * [Cleave](https://github.com/nosir/cleave.js) – Format input text content when you are typing
 
+## Image Gallery
+* [Photoswipe](http://photoswipe.com) - Responsive, dependency-free cross-browser image gallery
+
 ## Image Zooming
 * [Zooming](https://github.com/kingdido999/zooming) – Pure JavaScript image zoom that can be customized and invoked programmatically
 
